@@ -1,0 +1,61 @@
+			**** Custom Directives ****
+
+	- Creating our own directive based on application requirement
+	  Called as Custom Directive.
+
+	- In Angular, we can Use Custom Directives in 2 ways.
+
+		1) Attribute Type
+
+		2) Structural Type
+
+
+			*** Attribute Type ***
+
+
+	- Directive is the predefined class used to create the Custom Directive
+
+	- ElementRef is the Predefined Class used to manipulate the DOM Elements.
+
+	- HostListener is the Predefined Class used to apply the mouse events.
+
+	- Input is the Predefined Class used to pass the Dynamic Data to Custom Directive.
+
+	- Attribute Type Custom Directive won't work with the DOM Directly(memory).
+
+
+
+		   **** Structural Type Custom Directives ****
+
+	- Structural Type Custom Directives will works with the DOM Directly.
+
+	- Structural Type Custom Directives prefix with "*"
+
+	- TemplateRef is the predefined class used to manipulate the Templates
+
+	- ViewContainerRef used to manipulate the DOM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
